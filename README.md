@@ -2,6 +2,9 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+![1](https://github.com/Murtadha9/Fitness-Up-React-Native-Mobile-App/assets/138989987/af0fae61-5fe8-4021-8dbd-17ed236144b5 | width=200)
+
+
 ## Get started
 
 1. Install dependencies
