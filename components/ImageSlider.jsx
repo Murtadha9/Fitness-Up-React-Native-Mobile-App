@@ -32,7 +32,7 @@ const ImageSlider = () => {
       showsHorizontalScrollIndicator={false}
       renderItem={({ item }) => (
         <View className='mr-2' style={{ width: screenWidth, height: hp(100) * 0.4 }}>
-          <Image source={item} style={{ width: screenWidth, height: '100%' }} resizeMode="cover" className='rounded-xl' />
+          <Image source={item} style={{ width: '90%', height: '90%' }} resizeMode="cover" className='rounded-xl ml-5' />
         </View>
       )}
       keyExtractor={(item, index) => index.toString()}
