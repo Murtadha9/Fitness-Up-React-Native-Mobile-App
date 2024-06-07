@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 <img src="https://github.com/Murtadha9/Fitness-Up-React-Native-Mobile-App/assets/138989987/af0fae61-5fe8-4021-8dbd-17ed236144b5" width="400" height="800" />
 
-<img src="![2](https://github.com/Murtadha9/Fitness-Up-React-Native-Mobile-App/assets/138989987/4f932bfa-145b-42ed-b8d5-3fe4f6edb29b)" width="400" height="800" />
+<img src="https://github.com/Murtadha9/Fitness-Up-React-Native-Mobile-App/assets/138989987/4f932bfa-145b-42ed-b8d5-3fe4f6edb29b" width="400" height="800" />
 
 <img src="https://github.com/Murtadha9/Fitness-Up-React-Native-Mobile-App/assets/138989987/af0fae61-5fe8-4021-8dbd-17ed236144b5" width="400" height="800" />
 
